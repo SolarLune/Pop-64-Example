@@ -1,4 +1,4 @@
-# Pop-64
+# Pop 64 Example
 A 3D Platformer test game for Godot
 
 This is a 3D platformer test game for Godot that I, SolarLune, work on from time to time live on my YouTube channel: https://www.youtube.com/c/solarlune
